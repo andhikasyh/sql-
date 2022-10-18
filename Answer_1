@@ -1,0 +1,6 @@
+SELECT date, country_code, cumulative_persons_fully_vaccinated
+FROM `bigquery-public-data.covid19_open_data.covid19_open_data` 
+where date = '2022-06-01'
+and country_code = 'ID'
+and cumulative_persons_fully_vaccinated IS NOT NULL
+group by date, country_code, cumulative_persons_fully_vaccinated
