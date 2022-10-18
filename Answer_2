@@ -1,0 +1,6 @@
+SELECT country_code, sum(new_confirmed) as total_confirmed
+FROM `bigquery-public-data.covid19_open_data.covid19_open_data` 
+where date <= '2022-01-01'
+and country_code = 'ID'
+and aggregation_level = 0
+group by country_code
