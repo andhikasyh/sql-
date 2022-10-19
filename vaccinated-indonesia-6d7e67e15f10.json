@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vaccinated-indonesia",
+  "private_key_id": "6d7e67e15f102b7626cf2e7f0baea5fc028610a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgwvSdesPGmTON\ncRI1ecYuv7GYIhSMrt6eQvjtFeMOVXnme9FHGjwm3HjnitozV1Tg8KfKwtIJLybl\n+6NYhtM1+iLS56PXdyIB9SYuZc+VKbh/GdG97DAI9rXwZhj4oz9doOcI3LDCMuj4\n3XeompBPfI/QAVe0gVKmA/7Txc62+fcojUe6n9mM+82nlyAOUJikn6SGsfSwkhD0\nTs4G7LH3bUE00Izz2b7EfMoU22mNLibHanTFveXHrAXxVcyaWzs/TYyTAJLbq2pr\nFLgIykznrPj42Inz/Dw5M7/Bow1ucUSI5iiVwPMq9i8vkhfLscBPYenOTkGfYwRj\nTRXFuQyXAgMBAAECggEACmN9yqDygfBHLY9KNVY4E/rAmtS0bh46ZEaZ2oeA8619\nZsBWrM/THkQMLejr609AOUIWV1ey5+wZ2FZ4YdlK05CzYbEwOv94KcQALEkraOxr\n6SqzLZvy9RnGJg2Us5AEF+/zIySO4k2tGVeki2f9f0G1efqd6FYekQAtRpzleu0z\nqK4T+ERHRXkTkeb52Q0xnji/KexGXY0qmMXT7ersBcU8YvKnozxgCZFHyHY2LbEG\nTO6tRNdRk4SAKOF21OTww0QcQgoL4/XjReLBOCIp8HLYf/0Fqo+5/I1WVgl3y+A1\nFblM8fG6UBPuujDK6OCrpKDwM61kG/icsbbuTuLRsQKBgQDzCfrc+zrVsfcfCfKS\nxOIxscFHxpoUR23Oct69DsBKUhrTiSwXAH0aO19d6zwY2Agkqud5VSTpdVUaqEHo\n0p7bX1lAFtkWsuRXLubha1KXUJ2BDW0W2nRKMZRdER16asOoD4pd8hhjDLki7Clp\naCSK9nINKKnyS5HmGMUCuYGlZwKBgQDsv3K2YneThKyeBm7zSkXZsc5XysZs2wvv\nogmXxeMx0uFPcSgmoa4lLmvOPwEVXERrRpYXzlsdsH4+ihzxV5urVyP9UCPilj0w\nTE3qba+mYe9Q6tq9CleSkHnbkOOCTu99zVg967RCm/Fl8q851TaKNtDGotS9MK79\nY3Ow6r0xUQKBgCq+SJZwwMowgGu/DiBt6/IddwaukQ6b+V3jqfTKEVuA0SL+7vgk\np9vjMUSNSIZ+CACa5hbauKEud4c2rFDMKhAe1s2Ety1czPfgUc63V1ExZmH6AIOS\na/1YduVfSzXqbPqzsPwQxeU1qaHQsv/MxxCBg1F5I1pvm/tBw/RUt85lAoGBALDO\nia0L/KF/BCtAQrwPS/s4fxGxrl69eDyOlvtyHiqngv0BVSsEtDmwYXK2Oujo72/u\nV0mQIxwZIy8xlkvnUaq0eXxEzYf7C9d2JPpe0D9CBKg5vQJRJvWeUGNZ4Y7/xHv/\nT1dvIEBelfm9NH/Ma97s8R5nnNlt8kHqdAw8Qu8BAoGACvw0Elxqm6Ui6PDy6NoW\nyNK5ZWeR8dlGjZdJv0h8o7NOl/noI9WCRFU1IWPrcI8wAPTSJa1q9uA08GE7m4Ym\n3oAhzoNU1kCiZjYyldg1AIcHB7+tipeCwFy1/5WqEvNWGzmxPTLhQ3ZiyVf9gdmY\nErp+DWNLvTZMbr8QVI+hJuI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sqltask@vaccinated-indonesia.iam.gserviceaccount.com",
+  "client_id": "118073443456352907752",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sqltask%40vaccinated-indonesia.iam.gserviceaccount.com"
+}
